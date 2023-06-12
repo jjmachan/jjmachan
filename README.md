@@ -22,3 +22,5 @@ My name is **Jithin James** *aka jjmachan* and I'm an ML Engineer from India who
 I'm working [@explodinggradients](https://github.com/explodinggradients) building tools to help devs building with LLMs especially who are building Retrieval Augmented Generation(RAG) pipelines. We build [ragas](https://github.com/explodinggradients/ragas) which is a tools to help evalute RAG pipelines and working on a few other projects as well. My [github](https://github.com/jjmachan) is where you can find the latest updates.
 
 Previously I used to work with the awesome team [@bentoml](https://github.com/bentoml) to build tool that help Data Scientits/ML Engineers with model packaging, deployment and orchestration. BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes. My primary focus was helping build [bentoml/bentoctl](https://github.com/bentoml/bentoctl) which makes it really fast to deploy ML model to the cloud and [bentoml/yatai](https://github.com/bentoml/Yatai) which helps with model deployment at scale on k8s.
+
+Checkout more at [jjmachan.in](https://jjmachan.in)
